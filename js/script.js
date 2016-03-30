@@ -124,8 +124,3 @@ $.getJSON('data/allData.geojson', function(allData) {
     style: style2,
   }).addTo(map2);
 });
-
-<<<<<<< HEAD
-
-=======
->>>>>>> master
